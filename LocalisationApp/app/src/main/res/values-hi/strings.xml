@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LocalisationApp</string>
+    <string name="text1">Hindi text1</string>
+    <string name="text2">Hindi text2</string>
+    <string name="text3">Hindi text3</string>
+    <string name="text4">Hindi text4</string>
+    <string name="text5">Hindi text5</string>
+    <string name="text_default">Default</string>
+    <string name="text_dark">Dark</string>
+    <string name="text_light">Light</string>
+</resources>

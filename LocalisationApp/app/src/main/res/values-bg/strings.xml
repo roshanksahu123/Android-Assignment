@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LocalisationApp</string>
+    <string name="text1">Bulgerian text1</string>
+    <string name="text2">Bulgerian text2</string>
+    <string name="text3">Bulgerian text3</string>
+    <string name="text4">Bulgerian text4</string>
+    <string name="text5">Bulgerian text5</string>
+    <string name="text_default">Default</string>
+    <string name="text_dark">Dark</string>
+    <string name="text_light">Light</string>
+</resources>

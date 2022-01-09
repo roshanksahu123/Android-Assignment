@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LocalisationApp</string>
+    <string name="text1">German text1</string>
+    <string name="text2">German text2</string>
+    <string name="text3">German text3</string>
+    <string name="text4">German text4</string>
+    <string name="text5">German text5</string>
+    <string name="text_default">Default</string>
+    <string name="text_dark">Dark</string>
+    <string name="text_light">Light</string>
+</resources>

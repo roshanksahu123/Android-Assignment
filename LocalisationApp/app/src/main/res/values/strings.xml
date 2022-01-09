@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LocalisationApp</string>
+    <string name="text1">English text1</string>
+    <string name="text2">English text2</string>
+    <string name="text3">English text3</string>
+    <string name="text4">English text4</string>
+    <string name="text5">English text5</string>
+    <string name="text_default">Default</string>
+    <string name="text_dark">Dark</string>
+    <string name="text_light">Light</string>
+</resources>
